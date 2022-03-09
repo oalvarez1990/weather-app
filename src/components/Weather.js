@@ -40,11 +40,22 @@ const Weather = () => {
     return (
 
         <div className="App">
-            <h2>Welcome weather</h2>
-            <span className="humidity"> {weather.main?.humidity}</span>
+            <h2>Welcome weather</h2>            
             <p className="name">{weather.name},{weather.sys?.country}.</p>
-            <h1 className="temp_max">{weather.main?.clouds}</h1><br />
-            <h2 className="temp_max">{weather.wind?.speed}</h2><br />
+           
+
+            <h3>{weather.temp} °C</h3>
+            <p>Min  {weather.temp_min} °C | Max {weather.temp_max} °C</p>
+            <p>Pressure {weather.pressure} hPa</p>
+            <p>Humidity {weather.humidity} %</p>
+
+            <h1>
+                {" "}
+                {Math.floor(weather.main.temp - 273.15)}
+                <sup>o</sup>
+            </h1>
+
+
 
             <span className="temperature">{temperature}</span>
             <span className="temperature">{weather.coords?.lat}</span>
@@ -55,6 +66,7 @@ const Weather = () => {
 
             <img className='icon' src={weather.weather?.[0].icon ? `http://openweathermap.org/img/wn/${weather.weather?.[0].icon}@2x.png` : ""} alt="" />
         </div>
+
 
     )
 
