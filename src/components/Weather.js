@@ -44,18 +44,16 @@ const Weather = () => {
             <p className="name">{weather.name},{weather.sys?.country}.</p>
            
 
-            <h3>{weather.temp} °C</h3>
-            <p>Min  {weather.temp_min} °C | Max {weather.temp_max} °C</p>
-            <p>Pressure {weather.pressure} hPa</p>
-            <p>Humidity {weather.humidity} %</p>
+            <h3>{temperature} °C</h3>
+            <p>Min  {weather.main?.temp_min} °K | Max {weather.main?.temp_max} °K</p>
+            <p>Pressure {weather.main?.pressure} hPa</p>
+            <p>Humidity {weather.main?.humidity} %</p>
 
             <h1>
                 {" "}
-                {Math.floor(weather.main.temp - 273.15)}
+                {Math.floor(weather.main?.temp - 273.15)}
                 <sup>o</sup>
             </h1>
-
-
 
             <span className="temperature">{temperature}</span>
             <span className="temperature">{weather.coords?.lat}</span>
