@@ -10,7 +10,7 @@ const Weather = () => {
     const success = pos => {
         const lat = pos.coords.latitude;
         const lon = pos.coords.longitude;
-        console.log(lat,lon)
+        console.log(lat, lon)
 
         axios
             .get(`https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=6897765b297b912b5d59c01a10df8a8b`)
@@ -38,14 +38,16 @@ const Weather = () => {
 
 
     return (
-        <div className="App">            
+
+        <div className="App">
+            <h2>Welcome weather</h2>
             <span className="humidity"> {weather.main?.humidity}</span>
             <p className="name">{weather.name},{weather.sys?.country}.</p>
-            <h1 className="temp_max">{weather.main?.clouds}</h1><br />         
-            <h2 className="temp_max">{weather.wind?.speed}</h2><br />        
-            
-            <span className="temperature">{temperature}</span> 
-            <span className="temperature">{weather.coords?.lat}</span> 
+            <h1 className="temp_max">{weather.main?.clouds}</h1><br />
+            <h2 className="temp_max">{weather.wind?.speed}</h2><br />
+
+            <span className="temperature">{temperature}</span>
+            <span className="temperature">{weather.coords?.lat}</span>
 
             <div className="button">
                 <button onClick={convert}>Chance weather</button>
