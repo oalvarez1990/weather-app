@@ -1,0 +1,384 @@
+
+     [
+        {
+            "datasetid": "notaria0",
+            "recordid": "acef6527d0b9fe88c8b2a29bd753ce3d9233ac00",
+            "fields": {
+                "notpweb": "www.notaria13debogota.com.co/sitio/",
+                "geo_point_2d": [
+                    4.650065516999973,
+                    -74.063911539
+                ],
+                "nothapubli": "Lunes a Viernes 8:00 A.M. a 5:30 P.M. Jornada Continua. Sábado de turno 8:00 A.M. a 12:00 M.",
+                "notcnotari": 1,
+                "notnomnot": "Notaría 13",
+                "objectid": 58,
+                "nottelefon": "640 13 38",
+                "notnnotari": "JAIME ALBERTO RODRIGUEZ CUESTAS",
+                "notdirecci": "KR 13 63 39 IN 8 y 10",
+                "notnumnot": 13,
+                "notnfax": "6401313",
+                "notmunicip": "BOGOTA D.C.",
+                "notcinstit": "notaria13.bogota@supernotariado.gov.co",
+                "geo_shape": {
+                    "coordinates": [
+                        -74.063911539,
+                        4.650065516999973
+                    ],
+                    "type": "Point"
+                },
+                "notdeparta": "BOGOTA D.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.063911539,
+                    4.650065516999973
+                ]
+            },
+            "record_timestamp": "2017-10-04T03:14:34.173000+00:00"
+        },
+        {
+            "datasetid": "notaria0",
+            "recordid": "eb1238e73944535554522778549bb08835430761",
+            "fields": {
+                "notpweb": "notaria8.com.co/",
+                "geo_point_2d": [
+                    4.667705565999995,
+                    -74.05654463299999
+                ],
+                "nothapubli": "Lunes a Jueves: 8 a.m. a 1 p.m. y 2 p.m a 6 p.m. Viernes: 8:30 a.m. a 12:30 p.m y 2 p.m. a 6 p.m. Sábado de turno: 8 a.m. a 12 a.m",
+                "notcnotari": 1,
+                "notnomnot": "Notaría 8",
+                "objectid": 53,
+                "nottelefon": "236 90 37",
+                "notnnotari": "FABIO ORLANDO CASTIBLANCO CALIXTO",
+                "notdirecci": "KR 15 82 19",
+                "notnumnot": 8,
+                "notnfax": "6106508",
+                "notmunicip": "BOGOTA D.C.",
+                "notcinstit": "notaria8.bogota@supernotariado.gov.co",
+                "geo_shape": {
+                    "coordinates": [
+                        -74.05654463299999,
+                        4.667705565999995
+                    ],
+                    "type": "Point"
+                },
+                "notdeparta": "BOGOTA D.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.05654463299999,
+                    4.667705565999995
+                ]
+            },
+            "record_timestamp": "2017-10-04T03:14:34.173000+00:00"
+        },
+        {
+            "datasetid": "notaria0",
+            "recordid": "d882b89c9cb3c5506a44db163441f57bf23babad",
+            "fields": {
+                "notpweb": "www.notaria35bogota.com.co/sitio/",
+                "geo_point_2d": [
+                    4.666249843999992,
+                    -74.053386026
+                ],
+                "nothapubli": "Lunes a Viernes 8:00 A.M a 5:00 P.M Jornada Continua. Sábados de turno 8:00 A.M a 12:00 M.",
+                "notcnotari": 1,
+                "notnomnot": "Notaría 35",
+                "objectid": 6,
+                "nottelefon": "622 02 91",
+                "notnnotari": "MARIA ANGELA BEATRIZ SANIN POSADA",
+                "notdirecci": "AV. CL 82 11 62",
+                "notnumnot": 35,
+                "notnfax": "6222512",
+                "notmunicip": "BOGOTA D.C.",
+                "notcinstit": "notaria35.bogota@supernotariado.gov.co",
+                "geo_shape": {
+                    "coordinates": [
+                        -74.053386026,
+                        4.666249843999992
+                    ],
+                    "type": "Point"
+                },
+                "notdeparta": "BOGOTA D.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.053386026,
+                    4.666249843999992
+                ]
+            },
+            "record_timestamp": "2017-10-04T03:14:34.173000+00:00"
+        },
+        {
+            "datasetid": "notaria0",
+            "recordid": "c5759857a99976e9f2be16448d3f58398f83eb83",
+            "fields": {
+                "notpweb": "www.notaria37bogota.com.co/index.php/es/",
+                "geo_point_2d": [
+                    4.651601345000017,
+                    -74.05891866500002
+                ],
+                "nothapubli": "Lunes a Viernes de 8:00 A.M a 1:00 P.M y 2:00 P.M a 6:00 P.M. Sábados 9:00 A.M a 12:00 M.",
+                "notcnotari": 1,
+                "notnomnot": "Notaría 37",
+                "objectid": 8,
+                "nottelefon": "376 37 37",
+                "notnnotari": "ALVARO ROJAS CHARRY",
+                "notdirecci": "CL 67 7 90",
+                "notnumnot": 37,
+                "notnfax": "3767676",
+                "notmunicip": "BOGOTA D.C.",
+                "notcinstit": "notaria37.bogota@supernotariado.gov.co",
+                "geo_shape": {
+                    "coordinates": [
+                        -74.05891866500002,
+                        4.651601345000017
+                    ],
+                    "type": "Point"
+                },
+                "notdeparta": "BOGOTA D.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.05891866500002,
+                    4.651601345000017
+                ]
+            },
+            "record_timestamp": "2017-10-04T03:14:34.173000+00:00"
+        },
+        {
+            "datasetid": "notaria0",
+            "recordid": "576df04b11c3417d16e9d2bc5459b425c70260f0",
+            "fields": {
+                "notpweb": "notaria31bogota.com.co/sitio/",
+                "geo_point_2d": [
+                    4.694307933999994,
+                    -74.032021509
+                ],
+                "nothapubli": "Lunes a Viernes 8:00 A.M a 5:00 P.M Jornada Continua. Sábados 8:00 A.M a 1:00 P.M",
+                "notcnotari": 1,
+                "notnomnot": "Notaría 31",
+                "objectid": 2,
+                "nottelefon": "612 16 90",
+                "notnnotari": "ALFONSO CLAVIJO GONZÁLEZ",
+                "notdirecci": "CL 117 6A 19",
+                "notnumnot": 31,
+                "notnfax": "6121690 Ext. 109",
+                "notmunicip": "BOGOTA D.C.",
+                "notcinstit": "notaria31.bogota@supernotariado.gov.co",
+                "geo_shape": {
+                    "coordinates": [
+                        -74.032021509,
+                        4.694307933999994
+                    ],
+                    "type": "Point"
+                },
+                "notdeparta": "BOGOTA D.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.032021509,
+                    4.694307933999994
+                ]
+            },
+            "record_timestamp": "2017-10-04T03:14:34.173000+00:00"
+        },
+        {
+            "datasetid": "notaria0",
+            "recordid": "6c4b495004870cb78d8643566dc82668c25cc580",
+            "fields": {
+                "notpweb": "No reporta",
+                "geo_point_2d": [
+                    4.681990196000015,
+                    -74.04278516800002
+                ],
+                "nothapubli": "Lunes a Viernes 8:00 A.M. a 5:30 P.M., Sábados de turno 8:00 A.M. a 12:00 M.",
+                "notcnotari": 1,
+                "notnomnot": "Notaría 10",
+                "objectid": 55,
+                "nottelefon": "6111185",
+                "notnnotari": "OSCAR ANTONIO HERNANDEZ GOMEZ",
+                "notdirecci": "AV. CL 100 10 45",
+                "notnumnot": 10,
+                "notnfax": "No reporta",
+                "notmunicip": "BOGOTA D.C.",
+                "notcinstit": "notaria10.bogota@supernotariado.gov.co",
+                "geo_shape": {
+                    "coordinates": [
+                        -74.04278516800002,
+                        4.681990196000015
+                    ],
+                    "type": "Point"
+                },
+                "notdeparta": "BOGOTA D.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.04278516800002,
+                    4.681990196000015
+                ]
+            },
+            "record_timestamp": "2017-10-04T03:14:34.173000+00:00"
+        },
+        {
+            "datasetid": "notaria0",
+            "recordid": "27a288e992fe2404d1cc42c7bcb0908efdf8bad4",
+            "fields": {
+                "notpweb": "No reporta",
+                "geo_point_2d": [
+                    4.740513317000022,
+                    -74.08366988300003
+                ],
+                "nothapubli": "Lunes a Viernes de 8:00 a.m.a 12:00 m y de 1:00 p.m. a 5:00 p.m. Sábados de turno 9:00 a.m. a 1:00 p.m.",
+                "notcnotari": 1,
+                "notnomnot": "Notaría 59",
+                "objectid": 29,
+                "nottelefon": "681 00 24",
+                "notnnotari": "OLGA MARIA VALERO MORENO",
+                "notdirecci": "CL 146C BIS 90 11",
+                "notnumnot": 59,
+                "notnfax": "5366091",
+                "notmunicip": "BOGOTA D.C.",
+                "notcinstit": "notaria59.bogota@supernotariado.gov.co",
+                "geo_shape": {
+                    "coordinates": [
+                        -74.08366988300003,
+                        4.740513317000022
+                    ],
+                    "type": "Point"
+                },
+                "notdeparta": "BOGOTA D.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.08366988300003,
+                    4.740513317000022
+                ]
+            },
+            "record_timestamp": "2017-10-04T03:14:34.173000+00:00"
+        },
+        {
+            "datasetid": "notaria0",
+            "recordid": "abc727c215870bcc99affb0cf4a3642cac06cb08",
+            "fields": {
+                "notpweb": "www.notaria44.com.co/",
+                "geo_point_2d": [
+                    4.681723325000007,
+                    -74.04968695299999
+                ],
+                "nothapubli": "Lunes a Viernes 8:00 A.M a 6:00 P.M Jornada Continua. Sábados 9:30 A.M a 12:30 P.M.",
+                "notcnotari": 1,
+                "notnomnot": "Notaría 44",
+                "objectid": 15,
+                "nottelefon": "691 79 48",
+                "notnnotari": "LUZ MARY CÁRDENAS VELANDIA",
+                "notdirecci": "KR 15 96 07",
+                "notnumnot": 44,
+                "notnfax": "2565535",
+                "notmunicip": "BOGOTA D.C.",
+                "notcinstit": "notaria44.bogota@supernotariado.gov.co",
+                "geo_shape": {
+                    "coordinates": [
+                        -74.04968695299999,
+                        4.681723325000007
+                    ],
+                    "type": "Point"
+                },
+                "notdeparta": "BOGOTA D.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.04968695299999,
+                    4.681723325000007
+                ]
+            },
+            "record_timestamp": "2017-10-04T03:14:34.173000+00:00"
+        },
+        {
+            "datasetid": "notaria0",
+            "recordid": "e12837b53495e340bdd8fb8034bf2888e21e0378",
+            "fields": {
+                "notpweb": "notaria24bogota.com.co/sitio/",
+                "geo_point_2d": [
+                    4.66532936599998,
+                    -74.05703901800001
+                ],
+                "nothapubli": "Lunes a Jueves 8:00 A.M a 12:30 P.M y 1:30 P.M a 6:00 P.M Viernes 8:30 A.M a 12:30 P.M y 1:30 P.M a 5:30 P.M Sábados de turno 8:00 A.M a 12:00 M.",
+                "notcnotari": 1,
+                "notnomnot": "Notaría 24",
+                "objectid": 69,
+                "nottelefon": "644 30 60",
+                "notnnotari": "JORGE JUMBERTO DE JESUS URIBE ESCOBAR",
+                "notdirecci": "KR 14 79 25",
+                "notnumnot": 24,
+                "notnfax": "6460721/22",
+                "notmunicip": "BOGOTA D.C.",
+                "notcinstit": "notaria24.bogota@supernotariado.gov.co",
+                "geo_shape": {
+                    "coordinates": [
+                        -74.05703901800001,
+                        4.66532936599998
+                    ],
+                    "type": "Point"
+                },
+                "notdeparta": "BOGOTA D.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.05703901800001,
+                    4.66532936599998
+                ]
+            },
+            "record_timestamp": "2017-10-04T03:14:34.173000+00:00"
+        },
+        {
+            "datasetid": "notaria0",
+            "recordid": "917c0e88700a9f5702b26a8d989a991cb998ddf0",
+            "fields": {
+                "notpweb": "No reporta",
+                "geo_point_2d": [
+                    4.614207512000007,
+                    -74.07027750399999
+                ],
+                "nothapubli": "Lunes a Viernes 8:30 A.M a 5:30 P.M Jornada Continua. Sábados 9:00 A.M a 12:00 P.M",
+                "notcnotari": 1,
+                "notnomnot": "Notaría 18",
+                "objectid": 63,
+                "nottelefon": "7424118",
+                "notnnotari": "JOSE MIGUEL ROBAYO PIÑEROS",
+                "notdirecci": "KR 13 27 20",
+                "notnumnot": 18,
+                "notnfax": "No reporta",
+                "notmunicip": "BOGOTA D.C.",
+                "notcinstit": "notaria18.bogota@supernotariado.gov.co",
+                "geo_shape": {
+                    "coordinates": [
+                        -74.07027750399999,
+                        4.614207512000007
+                    ],
+                    "type": "Point"
+                },
+                "notdeparta": "BOGOTA D.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.07027750399999,
+                    4.614207512000007
+                ]
+            },
+            "record_timestamp": "2017-10-04T03:14:34.173000+00:00"
+        }
+    ]
+

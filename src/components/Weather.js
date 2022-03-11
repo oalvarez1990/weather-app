@@ -48,7 +48,7 @@ const Weather = () => {
             <p>Min  {weather.main?.temp_min} °K | Max {weather.main?.temp_max} °K</p>
             <p>Pressure {weather.main?.pressure} hPa</p>
             <p>Humidity {weather.main?.humidity} %</p>
-
+            
             <h1>
                 {" "}
                 {Math.floor(weather.main?.temp - 273.15)}

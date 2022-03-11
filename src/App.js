@@ -1,6 +1,10 @@
 
 import './App.css';
-import Weather from './components/Weather';
+// import Weather from './components/Weather';
+// import WeatherChance from './components/WeatherChance'
+// import PostsList from './components/'
+import ShowNotaria from './components/Notarias';
+
 
 function App() {
   return (
@@ -9,7 +13,12 @@ function App() {
               
       </header> */}
 
-      <Weather />
+      {/* <Weather /> */}
+      {/* <PostsList /> */}
+
+      {/* <WeatherChance /> */}
+      <ShowNotaria />
+
     </div>
   );
 }
