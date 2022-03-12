@@ -3,7 +3,7 @@ import './App.css';
 // import Weather from './components/Weather';
 // import WeatherChance from './components/WeatherChance'
 // import PostsList from './components/'
-import ShowNotaria from './components/Notarias';
+import Showbombero from './components/Notarias';
 
 
 function App() {
@@ -17,7 +17,7 @@ function App() {
       {/* <PostsList /> */}
 
       {/* <WeatherChance /> */}
-      <ShowNotaria />
+      <Showbombero />
 
     </div>
   );

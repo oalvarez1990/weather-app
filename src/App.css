@@ -219,3 +219,13 @@ background-image: linear-gradient(to bottom, rgba(82, 82, 82, 0.1), rgba(59, 59,
     margin:0px auto;
   }
 } 
+.bombero{
+  background-color: chartreuse;
+  height: 300px;
+  width: 400px;
+  border-radius: 30px; 
+  text-align: left;
+  padding: 30px;
+  
+}
+

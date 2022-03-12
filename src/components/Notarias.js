@@ -4,23 +4,26 @@ import React, { useEffect, useState } from 'react';
 // import Notarias from "../notaria.json"
 
 
-const ShowNotaria = () => {
+const Showbombero = () => {
 
-    const [notaria, setNotaria] = useState({});
+    const [bombero, setBombero] = useState({});
 
     useEffect(() => {
         axios
             .get('https://bogota-laburbano.opendatasoft.com/api/datasets/1.0/search/?q=')
             .then((res) => {
-                setNotaria(res.data)
+                setBombero(res.data)
             })
     }, []);
-    console.log(notaria)
+    console.log(bombero)
 
     return (
-        <div>
+        <div className='bombero'>
             <p>Hola mundo</p>
-            <h1>{notaria.fields?.empresa}</h1>
+            <h1> COD ESTACIÓN DE BOMBERO: {bombero.codestacbom?.objectid}</h1>
+            <h1> EMPRESA: {bombero.fields?.empresa}</h1>
+            <h1> COD ERP: {bombero.fields?.coderp}</h1>
+
         </div>
     );
 
@@ -37,4 +40,4 @@ const ShowNotaria = () => {
     // );
 };
 
-export default ShowNotaria;
+export default Showbombero;
