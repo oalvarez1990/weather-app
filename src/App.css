@@ -172,7 +172,7 @@ background-image: linear-gradient(to bottom, rgba(82, 82, 82, 0.1), rgba(59, 59,
   text-shadow: 3px 3px rgba(8, 8, 8, 0.5);
 }
 
-/* .button-convertion{
+.button-convertion{
   position: relative;
   display: flex;
   align-items: center;
@@ -186,7 +186,7 @@ background-image: linear-gradient(to bottom, rgba(82, 82, 82, 0.1), rgba(59, 59,
   color: rgb(80, 79, 79);
   font-size: 30px;
   font-weight: bold;
-} */
+}
 
 
 .icon{
